@@ -1,2 +1,1 @@
-# html
-html practice codes by me
+# this contains html basic code for creating tables and forms.
